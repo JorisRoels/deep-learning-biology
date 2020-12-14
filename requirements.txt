@@ -1,0 +1,9 @@
+scikit-learn
+numpy
+torch
+torchvision
+progressbar
+jupyterlab
+matplotlib
+pandas
+gdown
